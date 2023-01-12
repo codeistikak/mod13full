@@ -1,0 +1,86 @@
+{
+  "staffs": ["969707879546376214"],
+  "erkekRolleri": ["969707910466789406","969707911012028468","969707912882683906"],
+  "kizRolleri": ["969707905844658196","969707907677585428","969707908545777695"], 
+  "unregRoles": ["969707915202158602"],
+  "yetkiRolleri": ["969707872525119518","969707879546376214"],
+  "teyitciRolleri": ["969707879546376214"],
+  "ekipRolu": "969707904125001778",
+  "sahipRolu": ["969707825712468008","969707826601689168"],
+  "boosterRolu": "784640746983784458",
+
+  "warnHammer": ["969707875242999858"],
+  "banHammer": ["969707874316091392"],
+  "jailHammer": ["969707875242999858"],
+  "cmuteHammer": ["969707877717651516"],
+  "vmuteHammer": ["969707878954975282"],
+
+  "tag": "⚚",
+  "ikinciTag": "•",
+  "jailRole": ["969707888635416586"],
+  "chatMute": ["969707885783298098"],
+  "voiceMute": ["969707887561703484"],
+  "fakeAccRole": ["969707889818218536"],
+  "rolverici": ["969707874316091392"],
+
+  "chatChannel": "969707977395273748",
+  "teyitKanali": "969707966787899432",
+  "invLogChannel": "969707967702245546",
+  "banLogChannel": "969707989185462323",
+  "jailLogChannel": "969707991261675571",
+  "cmuteLogChannel": "969707987956543528",
+  "vmuteLogChannel": "969707986400473159",
+  "warnLogChannel": "969707991261675571",
+  "kurallar": "969707972412461107",
+  "cezapuanlog": "969707992461230110",
+
+  "vipRole": "969707903248371802",
+  "müzisyenRole": "969734675700543508",
+  "tasarımcıRole": "969734717937188924",
+  "streamerRole": "969735781847535726",
+  "sorunçözücüRole": "969734784878247967",
+
+  "publicParents": ["969707954817355826","969707953852678174"],
+  "registerParents": ["969707948702048306"],
+  "solvingParents": ["969707947745771640"],
+  "privateParents": ["969707955815596113"],
+  "aloneParents": ["969707956813828096"],
+  "funParents": ["968618465038577694","968564669277163560","968561865032601670","968624147854917662"],
+
+  "cekilis": "Çekiliş", 
+  "etkinlik": "Etkinlik",
+  
+  "İlişkiler": {
+    "couple": "Couple",
+    "alone": "Alone"
+  },
+  "Renkler": {
+    "kirmizi": "🍓",
+    "turuncu": "🍊",
+    "mor": "🍇",
+    "pembe": "🍑",
+    "yesil": "🥑"
+  },
+  "Oyunlar": {
+    "csgo": "CS:GO",
+    "lol": "League",
+    "valorant": "Valorant",
+    "gta5": "Gta",
+    "pubg": "PUBG",
+    "fortnite": "Fortnite"
+  },
+  "Burçlar": {
+    "koç": "Koç",
+    "boğa": "Boğa",
+    "ikizler": "İkizler",
+    "yengeç": "Yengeç",
+    "aslan": "Aslan",
+    "başak": "Başak",
+    "terazi": "Terazi",
+    "akrep": "Akrep",
+    "yay": "Yay",
+    "oğlak": "Oğlak",
+    "kova": "Kova",
+    "balık": "Balık"
+  }
+}
